@@ -25,10 +25,6 @@ const whereToChange = [
 		pathPrefix: '../../../',
 	},
 	{
-		file: `/home/barry/sites/ripley/maggie/foleon-utils/package.json`,
-		pathPrefix: '../../../',
-	},
-	{
 		file: `/home/barry/sites/ripley/packages/ui-kit/package.json`,
 		pathPrefix: '../../../',
 	},
